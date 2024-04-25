@@ -7,18 +7,18 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+description: I am a post-graduate student (Engineering Science - Electrical Engineering) at The university of Queensland and I am currently learning computer vision and deep learning. The purpose of this blog is simply to document my journey of learning.
+github_username: weiz0325
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: wei.zha@uqconnect.edu.au
+#twitter_username:
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
+#google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
