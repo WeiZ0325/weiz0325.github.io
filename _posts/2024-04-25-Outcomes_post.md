@@ -1,4 +1,4 @@
-# Outcomes from learning fastai course
+# Outcomes from fastai course
 
 Here's the table of contents:
 
