@@ -2,6 +2,7 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## Blog
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+I am a post-graduate student (Engineering Science - Electrical Engineering) at The university of Queensland and I am currently learning computer vision and deep learning. The purpose of this blog is simply to document my journey of learning.
+
