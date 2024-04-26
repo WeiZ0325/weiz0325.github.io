@@ -86,9 +86,7 @@ In [ ]: stacked_threes.shape
 Out[ ]: torch.Size([6131, 28, 28])
 ```
 
-`
 We just need to find its length to know its rank. This is done as follows.
-`
 
 ```python
 In [ ]: len(stacked_threes.shape)
